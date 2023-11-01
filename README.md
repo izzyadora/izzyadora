@@ -14,10 +14,9 @@
 </div>
 
 ### 
-<div align="center" style="display: inline_block">
-  ![izzyadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=izzyadora&show_icons=true&theme=dracula)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzyadora&layout=compact&theme=dracula)
-</div>
+  ![izzyadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=izzyadora&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzyadora&layout=compact&theme=tokyonight)
+###
 
 
 ###
