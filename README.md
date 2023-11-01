@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Isadora </h1>
-<h3 align="center"> A high-school student and algorithm enthusiast, always thinking in creative solutions for your problems. </h3>
+<h3 align="center"> A high-school student and algorithm enthusiast, who is always thinking in creative solutions for your problems. </h3>
 
 - 🌱 **I’m currently learning C/C++ and Python.**
 - 😄 **Pronouns:** she/her
