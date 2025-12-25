@@ -15,7 +15,10 @@
   </p>
 </div>
 
+---
+
 <div align="center">
+<img src="https://s2.glbimg.com/paF5KTEVGzMU-ZcZa2mjYicNDjM=/e.glbimg.com/og/ed/f/original/2015/03/09/ada.jpg" height="40px" align="middle">
   <em>
   “The more I study, the more insatiable do I feel my genius for it to be.” —<strong>Ada Lovelace</strong>
   </em>
