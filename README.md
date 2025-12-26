@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone, I'm Isadora de Souza!<img src="https://i.pinimg.com/originals/7f/ae/97/7fae97b0d62464f833f75a7cce0a9902.gif" width="64px"></h1>
 
 <p align="center">
-  <em>Computer Science Undergraduate • Graduanda em Ciência da Computação</em>
+  <em>Computer Science Undergraduate • Python, Java & C++</em>
 </p>
 
 <div align="center">
