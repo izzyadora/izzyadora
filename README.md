@@ -14,7 +14,11 @@
     Nice to see you in my profile, feel free to star any of my repositories if you like them.
   </p>
 </div>
-
+<div align="center">
+  <h2>Contact me</h2>
+  <a href="mailto:souzad.isadora@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="www.linkedin.com/in/izzyadora"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 ---
 
 <div align="center">
