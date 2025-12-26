@@ -10,7 +10,7 @@
 
 <div align="center">
   <p>
-    ⊹  I'm a 18 yo woman who loves staying tuned in new technologies, learn new stuff and communicate with everyone. Besides I'm currenly persuing a <strong>Computer Science</strong> degree at <strong>Federal University of Juiz de Fora (UFJF)</strong>. 
+    ⊹  I'm a 18 yo woman who loves staying tuned in new technologies, learn new stuff and communicate with everyone. Besides I'm currently persuing a <strong>Computer Science</strong> degree at <strong>Federal University of Juiz de Fora (UFJF)</strong>. 
     Nice to see you in my profile, feel free to star any of my repositories if you like them.
   </p>
 </div>
