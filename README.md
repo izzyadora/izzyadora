@@ -9,7 +9,7 @@
 
 
 
-<div align="justify"> 
+<div align="left"> 
   <img src="./assets/illustration.png" height="250px" align="right">
   <p>
     I’m an 18-year-old woman driven by <strong>continuous learning and problem-solving</strong>. Here you’ll find my projects and experiments as I grow in <strong>software engineering</strong>. <br> Feel free to contact me by clicking <a href="mailto:souzad.isadora@gmail.com">here!</a>
@@ -18,8 +18,7 @@
 
 ---
 
-<div class="status">
-  <img src="https://github-readme-stats.vercel.app/api?username=izzyadora&show_icons=false&hide=stars,contribs,prs&hide_rank=true&theme=moltack">
+<div class="status" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzyadora&theme=moltack">
 </div>
 
