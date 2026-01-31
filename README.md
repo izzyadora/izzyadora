@@ -17,12 +17,6 @@
 </div>
 
 ---
-
-<div class="status" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzyadora&theme=moltack">
-</div>
-
----
 <div align="center">
 <img src="./assets/ada.webp" height="40px" align="middle">
   <em>
