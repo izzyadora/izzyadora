@@ -17,6 +17,25 @@
 </div>
 
 ---
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Figma" height="30" width="40" src="https://devicon-website.vercel.app/api/figma/original.svg" />
+  <img align="center" alt="C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg" />
+  <img align="center" alt="C++" height="30" width="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />
+  <img align="center" alt="CMake" height="30" width="40" src="https://devicon-website.vercel.app/api/cmake/original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg" />
+  <img align="center" alt="Bash" height="30" width="40" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23596E68" />
+  
+  
+  
+
+</div>
+
+
+---
 <div align="center">
 <img src="./assets/ada.webp" height="40px" align="middle">
   <em>
