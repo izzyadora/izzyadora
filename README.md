@@ -12,7 +12,7 @@
 <div align="left"> 
   <img src="./assets/illustration.png" height="250px" align="right">
   <p>
-   I’m an 18-year-old woman driven by <strong>continuous learning and problem-solving</strong>. Here you’ll find my projects and experiments as I grow in <strong>software engineering</strong>. <br> Feel free to contact me by clicking <a href="mailto:souzad.isadora@gmail.com">here!</a>
+   I’m an 19-year-old woman driven by <strong>continuous learning and problem-solving</strong>. Here you’ll find my projects and experiments as I grow in <strong>software engineering</strong>. <br> Feel free to contact me by clicking <a href="mailto:souzad.isadora@gmail.com">here!</a>
   </p>
 </div>
 
