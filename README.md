@@ -1,7 +1,7 @@
 <div class="title">
   <h1 align="center">𝜗ৎ Hi everyone, I'm Isadora de Souza! ☕</h1>
   <p align="center">
-    <em>Computer Science Undergraduate</em>
+    <em>Computer Science Undergraduate at UFJF</em>
   </p>
 </div>
 
