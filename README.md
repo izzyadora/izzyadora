@@ -1,5 +1,5 @@
 <div class="title">
-  <h1 align="center">Hi everyone, I'm! ☕</h1>
+  <h1 align="center">Hi everyone, I'm Isadora! ☕</h1>
   <p align="center">
     <em>Computer Science Undergraduate at UFJF</em>
   </p>
