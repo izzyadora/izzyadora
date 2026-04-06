@@ -10,7 +10,7 @@
 
 
 <div align="left"> 
-  <img src="./assets/illustration.png" height="250px" align="right">
+  <img src="./assets/illustration_blue.png" height="250px" align="right" style="margin-left: 20px;">
   <p>
    I’m a 19-year-old developer focused on <strong>continuous learning and problem-solving</strong>. Also,  Here you’ll find my projects and experiments as I grow in <strong>software engineering</strong>.
   </p>
@@ -19,6 +19,10 @@
     I value collaboration and learning in groups, while also being comfortable <strong>making decisions, thinking in different perspectives and taking ownership</strong>.
   </p>
   <p>You can contact me by clicking <a href="mailto:souzad.isadora@gmail.com">here</a>, i'll have the pleasure to take a time to answer your questions or proposals.</p>
+  <br clear="right">
+</div>
+
+## Tech stack
 <div style="display: inline_block">
   <img align ="center" alt="GDScript" height="30" width="40" src="https://devicon-website.vercel.app/api/godot/original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original.svg" />
