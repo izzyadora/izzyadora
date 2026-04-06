@@ -22,7 +22,7 @@
   <br clear="right">
 </div>
 
-## Tech stack
+<h2>💻 Skills & Technologies</h2>
 <div style="display: inline_block">
   <img align ="center" alt="GDScript" height="30" width="40" src="https://devicon-website.vercel.app/api/godot/original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original.svg" />
