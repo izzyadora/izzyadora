@@ -23,7 +23,7 @@
 </div>
 
 <h2>💻 Skills & Technologies</h2>
-<div style="display: inline_block">
+<div style="display: inline">
   <img align ="center" alt="GDScript" height="30" width="40" src="https://devicon-website.vercel.app/api/godot/original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg" />
