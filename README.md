@@ -22,16 +22,6 @@
   <br clear="right">
 </div>
 
-<h2>💻 Skills & Technologies</h2>
-<div style="display: inline">
-  <img align ="center" alt="GDScript" height="30" width="40" src="https://devicon-website.vercel.app/api/godot/original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original.svg" />
-  <img align="center" alt="C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg" />
-  <img align="center" alt="C++" height="30" width="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align ="center" alt="JavaScript" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg">
-</div>
 
 
 ---
