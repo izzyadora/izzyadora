@@ -7,22 +7,7 @@
 
 ---
 
-
-
-<div align="left"> 
-  <img src="./assets/illustration_blue.png" height="250px" align="right" style="margin-left: 20px;">
-  <p>
-   I’m a 19-year-old developer focused on <strong>continuous learning and problem-solving</strong>. Also,  Here you’ll find my projects and experiments as I grow in <strong>software engineering</strong>.
-  </p>
-  <p>
-    I advocate for <strong>gender equity in technology</strong>, which I put into practice through projects like <strong>GraceCode</strong> (in progress).  
-    I value collaboration and learning in groups, while also being comfortable <strong>making decisions, thinking in different perspectives and taking ownership</strong>.
-  </p>
-  <p>You can contact me by clicking <a href="mailto:souzad.isadora@gmail.com">here</a>, i'll have the pleasure to take a time to answer your questions or proposals.</p>
-  <br clear="right">
-</div>
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,godot,git,github,figma)](https://skillicons.dev)
 
 ---
 <div align="center">
