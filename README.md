@@ -7,9 +7,9 @@
 
 ---
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=php,godot,mysql,python,cpp)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,figma)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,php,godot,mysql)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,git,github,linux,bash,figma)](https://skillicons.dev)<br>
+
 
 ---
 <div align="center">
