@@ -8,7 +8,7 @@
 ---
 ## About me
 
-<img src="/assets/illustration_blue.png" alt="Ilustração de uma desenvolvedora" width="210" align="right" />
+<img src="/assets/illustration_blue.png" alt="Ilustração de uma desenvolvedora" width="180" align="right" />
 
 * 🌱 Currently developing <strong>GraceCode</strong>
 * ✊🏽 Advocate for <strong>gender equity in tech</strong>
