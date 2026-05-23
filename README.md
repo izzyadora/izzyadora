@@ -7,7 +7,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,godot,git,github,linux,bash,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,php,godot,mysql,python,cpp,git,github,linux,bash,figma)](https://skillicons.dev)
 
 ---
 <div align="center">
