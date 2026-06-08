@@ -10,9 +10,9 @@
 
 <img src="/assets/illustration_blue.png" alt="Ilustração de uma desenvolvedora" width="180" align="right" />
 
-* 🌱 Currently developing <strong>GraceCode</strong>
-* ✊🏽 Advocate for <strong>gender equity in tech</strong>
-* 👀 Curiosity is what moves me!
+* 🌱 Currently developing <strong>GraceCode</strong> and <strong>DexStroll</strong>
+* ✊🏽 I advocate for <strong>gender and race equity in tech</strong>
+* 👀 Curiosity is what moves me! My mind never stops!
 * 📸 I share some stuff on <a href="">@desenvolve.dora</a>
 <br>
 
