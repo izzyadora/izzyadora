@@ -13,7 +13,6 @@
 * 🌱 Currently developing <strong>GraceCode</strong> and <strong>DexStroll</strong>
 * ✊🏽 I advocate for <strong>gender and race equity in tech</strong>
 * 👀 Curiosity is what moves me! My mind never stops!
-* 📸 I share some stuff on <a href="">@desenvolve.dora</a>
 <br>
 
 # Skills
